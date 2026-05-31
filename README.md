@@ -29,7 +29,7 @@ Alongside development, I work as a **Media Lead & Digital Content Creator**, man
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,nextjs,flutter" />
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
