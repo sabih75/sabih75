@@ -1,38 +1,96 @@
-# Hi there 👋, I'm Sabih Ul Hassan
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Sabih+Ul+Hassan;Computer+Science+Student;Web+%26+.NET+Developer;Creative+Media+Lead&center=true&width=600&height=50">
+</h1>
 
-🎓 Computer Science student at BIIT with a 3.85 CGPA, passionate about building software solutions and creating meaningful digital experiences.
+<h3 align="center">Computer Science Student | Web & .NET Developer | Digital Creator</h3>
 
-💻 As an aspiring Web & .NET Developer, I focus on developing robust, scalable applications using the .NET ecosystem, C#, Object-Oriented Programming, and modern software engineering practices. I enjoy tackling complex technical challenges and transforming ideas into intuitive, user-friendly solutions.
+---
 
-🎥 Beyond coding, I'm a Digital Content Creator and Media Lead with extensive experience in content production, event coverage, and community engagement. I have led media operations for BIIT's AI, Programming, and Sports Societies, covering major tech events such as Google I/O Extended and Cloud DevFest while managing creative teams and digital campaigns.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sabih75&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
-## 🚀 Technical Skills
-* Web Development(React & Next.Js)
-* C#
-* .NET Framework
-* Object-Oriented Programming (OOP)
-* Software Engineering
-* Problem Solving & System Design
+---
 
-## 🎨 Creative & Leadership Skills
+## About Me
 
-* Professional Videography
-* Street Photography & Videography
-* Video Editing
-* Social Media Management
-* Digital Content Strategy
-* Event Coverage
-* Team Leadership & Collaboration
+I am a Computer Science student at **BIIT** with a strong academic record (3.85 CGPA), focused on building scalable software systems and modern web applications.
 
-## 🌱 Currently Exploring
+I specialize in:
+- Web Development using modern frameworks
+- .NET ecosystem and C# development
+- Object-Oriented Programming and Software Engineering principles
 
-* ASP.NET Development
-* Modern Web Technologies
-* Software Architecture
-* AI-Powered Applications
+Alongside development, I work as a **Media Lead & Digital Content Creator**, managing production teams, creating digital campaigns, and covering major tech events including Google I/O Extended and Cloud DevFest.
 
-## 🤝 Let's Connect
+---
 
-I'm always open to collaborating with software developers, tech enthusiasts, and creative professionals on innovative projects and impactful digital experiences.
+## Tech Stack
 
-📸 Instagram: @photobysabih
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,nextjs" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+</p>
+
+---
+
+## Currently Exploring
+
+- ASP.NET Core & Enterprise Web Apps  
+- Advanced Software Architecture  
+- System Design & Scalability  
+- AI Integration in Web Applications  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabih75&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabih75&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sabih75&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sabih-ul-hassan-35283427b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/photobysabih">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:sabihulh75@gmail.com">
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## Professional Focus
+
+A developer who blends **engineering precision with creative storytelling**, building clean, scalable applications while maintaining strong visual and communication design thinking.
