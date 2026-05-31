@@ -7,12 +7,11 @@
 🎥 Beyond coding, I'm a Digital Content Creator and Media Lead with extensive experience in content production, event coverage, and community engagement. I have led media operations for BIIT's AI, Programming, and Sports Societies, covering major tech events such as Google I/O Extended and Cloud DevFest while managing creative teams and digital campaigns.
 
 ## 🚀 Technical Skills
-
+* Web Development(React & Next.Js)
 * C#
 * .NET Framework
 * Object-Oriented Programming (OOP)
 * Software Engineering
-* Web Development(React & Next.Js)
 * Problem Solving & System Design
 
 ## 🎨 Creative & Leadership Skills
