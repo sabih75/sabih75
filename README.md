@@ -12,7 +12,7 @@
 * .NET Framework
 * Object-Oriented Programming (OOP)
 * Software Engineering
-* Web Development Fundamentals
+* Web Development(React & Next.Js)
 * Problem Solving & System Design
 
 ## 🎨 Creative & Leadership Skills
